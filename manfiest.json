@@ -3,14 +3,14 @@
   "header": {
     "description": "TNT Tag Game",
     "name": "TNT Tag",
-    "uuid": "dc3fcf9e-b1d3-4d4f-939b-cd99c8f3d396",  
+    "uuid": "b00d88a6-91c0-4fc5-afc4-fc1eaa5f7d90",  
     "version": [1, 0, 0]
   },
   "modules": [
     {
       "description": "Main script for TNT Tag",
       "language": "javascript",
-      "uuid": "f3eaf712-28fa-4a9b-bfd4-e0bb415524a6", 
+      "uuid": "ebd3a252-7b38-4b61-b1e4-bffdbbcf83de", 
       "version": [1, 0, 0]
     }
   ]
